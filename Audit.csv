@@ -1,0 +1,19 @@
+date,notebook_name,executionTime,status,no_of_records_processed,no_of_records_passed,no_of_records_failed
+2022-07-08,NB_Final_Workflow,"Timedelta: 0 days, 16 seconds, 13725 microseconds (total: 16.013725 seconds)",Completed,null,null,null
+2022-07-08,NB_Task1,"Timedelta: 0 days, 102 seconds, 192880 microseconds (total: 102.19288 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 22 seconds, 976009 microseconds (total: 22.976009 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 25 seconds, 578997 microseconds (total: 25.578997 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 16 seconds, 460071 microseconds (total: 16.460071 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 16 seconds, 882946 microseconds (total: 16.882946 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 17 seconds, 256706 microseconds (total: 17.256706 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 18 seconds, 112991 microseconds (total: 18.112991 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 17 seconds, 61474 microseconds (total: 17.061474 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 16 seconds, 923790 microseconds (total: 16.92379 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 17 seconds, 139350 microseconds (total: 17.13935 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task1,"Timedelta: 0 days, 7 seconds, 375647 microseconds (total: 7.375647 seconds)",Completed,1042,656,386
+2022-07-08,NB_Task2,"Timedelta: 0 days, 15 seconds, 157124 microseconds (total: 15.157124 seconds)",Completed,656,null,null
+2022-07-08,NB_Task1,"Timedelta: 0 days, 18 seconds, 353812 microseconds (total: 18.353812 seconds)",Failed,1042,656,386
+2022-07-08,NB_Task2,"Timedelta: 0 days, 10 seconds, 383891 microseconds (total: 10.383891 seconds)",Completed,656,null,null
+2022-07-08,NB_Task2,"Timedelta: 0 days, 7 seconds, 723515 microseconds (total: 7.723515 seconds)",Completed,656,null,null
+2022-07-08,NB_Task2,"Timedelta: 0 days, 8 seconds, 200118 microseconds (total: 8.200118 seconds)",Completed,656,null,null
+2022-07-08,NB_Task2,"Timedelta: 0 days, 1 seconds, 756396 microseconds (total: 1.756396 seconds)",Failed,656,null,null
